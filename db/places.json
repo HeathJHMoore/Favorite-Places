@@ -1,40 +1,40 @@
 {
     "rides": [
         {
-            "cityName": "ride1",
-            "cityState": "Space Mountain",
-            "cityImage": 120,
-            "favoriteRestaurant": "coaster",
-            "favoriteBar": 50,
-            "favoriteHotel": "high",
-            "favoriteTouristAttraction": 12
+            "cityName": "Nashville",
+            "cityState": "Tennessee",
+            "cityImage": "https://cdn4.sportngin.com/attachments/photo/8f22-105579548/NDT.jpg",
+            "favoriteRestaurant": "Burger Up",
+            "favoriteBar": "LA Jackson",
+            "favoriteHotel": "Marriot",
+            "favoriteTouristAttraction": "Pedal Tavern"
         },
         {
-            "cityName": "ride1",
-            "cityState": "Space Mountain",
-            "cityImage": 120,
-            "favoriteRestaurant": "coaster",
-            "favoriteBar": 50,
-            "favoriteHotel": "high",
-            "favoriteTouristAttraction": 12
+            "cityName": "Huntsville",
+            "cityState": "Alabama",
+            "cityImage": "https://www.aia-aerospace.org/wp-content/uploads/2019/01/Huntsville-AL.jpg",
+            "favoriteRestaurant": "The Bottle",
+            "favoriteBar": "Pints and Pixels",
+            "favoriteHotel": "Marriot",
+            "favoriteTouristAttraction": "Space and Rocket Center"
         },
         {
-            "cityName": "ride1",
-            "cityState": "Space Mountain",
-            "cityImage": 120,
-            "favoriteRestaurant": "coaster",
-            "favoriteBar": 50,
-            "favoriteHotel": "high",
-            "favoriteTouristAttraction": 12
+            "cityName": "Philadelphia",
+            "cityState": "Pennsylvania",
+            "cityImage": "https://technical.ly/philly/wp-content/uploads/sites/2/2017/12/Philadelphia_Skyline-e1513356000923.jpg",
+            "favoriteRestaurant": "Shake Shack",
+            "favoriteBar": "Philly CheeseBar",
+            "favoriteHotel": "Marriot",
+            "favoriteTouristAttraction": "Liberty Bell"
         },
         {
-            "cityName": "ride1",
-            "cityState": "Space Mountain",
-            "cityImage": 120,
-            "favoriteRestaurant": "coaster",
-            "favoriteBar": 50,
-            "favoriteHotel": "high",
-            "favoriteTouristAttraction": 12
+            "cityName": "Chicago",
+            "cityState": "Illinois",
+            "cityImage": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/chicago/Choose_Chicago_8086f9ab-7fa4-4515-aaca-244b7ca7e0f6.jpg",
+            "favoriteRestaurant": "Pizza Mod",
+            "favoriteBar": "Windy Whiskey",
+            "favoriteHotel": "Marriot",
+            "favoriteTouristAttraction": "Sears Tower"
         }
     ]
 }
