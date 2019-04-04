@@ -1,0 +1,40 @@
+{
+    "rides": [
+        {
+            "cityName": "ride1",
+            "cityState": "Space Mountain",
+            "cityImage": 120,
+            "favoriteRestaurant": "coaster",
+            "favoriteBar": 50,
+            "favoriteHotel": "high",
+            "favoriteTouristAttraction": 12
+        },
+        {
+            "cityName": "ride1",
+            "cityState": "Space Mountain",
+            "cityImage": 120,
+            "favoriteRestaurant": "coaster",
+            "favoriteBar": 50,
+            "favoriteHotel": "high",
+            "favoriteTouristAttraction": 12
+        },
+        {
+            "cityName": "ride1",
+            "cityState": "Space Mountain",
+            "cityImage": 120,
+            "favoriteRestaurant": "coaster",
+            "favoriteBar": 50,
+            "favoriteHotel": "high",
+            "favoriteTouristAttraction": 12
+        },
+        {
+            "cityName": "ride1",
+            "cityState": "Space Mountain",
+            "cityImage": 120,
+            "favoriteRestaurant": "coaster",
+            "favoriteBar": 50,
+            "favoriteHotel": "high",
+            "favoriteTouristAttraction": 12
+        }
+    ]
+}
