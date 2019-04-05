@@ -2,7 +2,7 @@
 
 Checkout out some of my favorite places to visit in this web app!
 
-![Image of Web-page.](https://raw.githubusercontent.com/HeathJHMoore/sorting-hat/master/images/Screen%20Shot%202019-04-02%20at%206.17.56%20PM.png "Screenshot of my webpage")
+![Image of Web-page.](https://raw.githubusercontent.com/HeathJHMoore/Favorite-Places/master/images/Screen%20Shot%202019-04-04%20at%208.33.23%20PM.png "Screenshot of my webpage")
 
 
 ## Pre Requisites
