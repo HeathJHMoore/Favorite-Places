@@ -8,4 +8,5 @@ body {
 
 .card {
     max-width: 530px;
+    min-width: 430px;
 }
